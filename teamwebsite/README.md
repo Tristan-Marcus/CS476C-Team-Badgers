@@ -6,8 +6,9 @@ Northern Arizona University Aug 2020 - May 2021
 -A flexible skills acknowledgement system for remote work contexts.
 
 Team members
-1. Robel Tegegne (Team Lead, Release Manager, Coder)
-2. Tristan Marcus (Quality Assurance and Architect Coder)
-3. Logan Ritter (Team communicator, Meeting Recorder Coder)
-4. Abdulrahman Alamoudi (Release Manager Coder)
-5. Yuanbo Xu (Release Manager Coder)
+1. Tristan Marcus (Project Architect, Quality Assurance, Lead Front-end Coder)
+2. Logan Ritter (Team Lead, Team communicator, Coder)
+3. Yuanbo Xu (Front/Back-end Coder)
+4. Robel Tegegne (Release Manager, Back-end Coder)
+5. Abdulrahman Alamoudi (Front-end Coder)
+
